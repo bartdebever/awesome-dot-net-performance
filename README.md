@@ -10,7 +10,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
 	- [Performance tools](#performance-tools)
 	- [High Performance Libraries](#high-performance-libraries)
-	- Article series
+	- [Article series](#article-series)
 		- [Benchmarking](#benchmarking)
 		- [JIT Optimizations](#jit-optimizations)
 		- [Refs](#refs)		
