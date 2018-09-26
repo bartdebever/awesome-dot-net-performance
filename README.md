@@ -114,6 +114,9 @@ Sorted from newest to oldest:
 * [dotTrace](https://www.jetbrains.com/profiler/) - Paid profiler for .NET applications from the JetBrains team, included in the Resharper Ultimate package
 ### Application Insights
 * [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
+### Load testing
+* [JMeter](http://jmeter.apache.org/index.html) - Free testing tool with lots of features for web request testing.
+* [Netling](https://github.com/hallatore/Netling) - Free minimal load tester, simple URL request without cookies or parameters, easy to use.
 
 ## High Performance Libraries
 * Mathematics
